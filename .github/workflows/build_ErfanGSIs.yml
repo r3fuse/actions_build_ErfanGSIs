@@ -17,7 +17,7 @@ env:
   ROM_URL: https://bigota.d.miui.com/20.9.4/miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
-  TZ: Asia/Dongguan
+  TZ: Asia/Shanghai
 
 jobs:
   build:
